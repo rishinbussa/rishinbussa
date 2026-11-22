@@ -43,4 +43,4 @@ Graduate student at Northeastern University. I build data pipelines, NLP systems
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/rishinbussa) · [GitHub](https://github.com/rishinbussa)
+[Website](https://rishinbussa.github.io) · [LinkedIn](https://www.linkedin.com/in/rishinbussa) · [GitHub](https://github.com/rishinbussa)
